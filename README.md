@@ -33,8 +33,13 @@ Give C-suite executives a quick, non-technical view of business health across sa
 ```
 docs/        -> Business Requirements Document (notebook)
 dashboard/   -> Power BI executive summary (PDF)
+images/      -> Dashboard preview screenshot
 sql/         -> Gold table SQL (coming soon)
 ```
+## How to View
+1. Open `docs/01_executive_summary_brd.ipynb` for requirements and table specs.
+2. Open `dashboard/executive_summary_dashboard.pdf` for the final report.
+
 ## Data Notice
 Data shown is for portfolio/demo purposes. No confidential or personal data is included
 
